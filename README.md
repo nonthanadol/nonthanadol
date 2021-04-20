@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+
+
+![dino](https://user-images.githubusercontent.com/81633477/115402552-b505c800-a215-11eb-8ae0-86b3dc4cfa4c.gif)
 <!--
 **nonthanadol/nonthanadol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
